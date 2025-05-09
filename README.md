@@ -37,7 +37,7 @@ O código está organizado nas seguintes seções:
 
 ## Resultados
 
-O modelo alcança um erro médio absoluto (MAE) de aproximadamente 1.02 no conjunto de teste, demonstrando alta precisão na realização de operações matemáticas. Os melhores hiperparâmetros encontrados foram:
+O modelo alcança um erro médio absoluto (MAE) de aproximadamente 0.55 no conjunto de teste, demonstrando alta precisão na realização de operações matemáticas. Os melhores hiperparâmetros encontrados foram:
 
 - **Função de Ativação**: tanh
 - **Taxa de Aprendizado**: 0.09500291095778272
